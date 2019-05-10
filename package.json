@@ -5,6 +5,15 @@
   "bin": {
     "a06-server": "./bin/www"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xg-a06/static_server.git"
+  },
+  "keywords": [
+    "node-cli",
+    "javascript",
+    "static resource server"
+  ],
   "author": "xg_jser@163.com",
   "license": "ISC",
   "dependencies": {
