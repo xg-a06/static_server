@@ -1,0 +1,21 @@
+{
+  "name": "a06-server",
+  "version": "1.0.2",
+  "description": "Static resource server to help your test",
+  "bin": {
+    "a06-server": "./bin/www"
+  },
+  "author": "xg_jser@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "circular-json": "^0.5.9",
+    "cli-table2": "^0.2.0",
+    "commander": "^2.20.0",
+    "ejs": "^2.6.1",
+    "figlet": "^1.2.1",
+    "http-proxy": "^1.17.0",
+    "mime": "^2.4.2",
+    "open": "^6.2.0"
+  }
+}
