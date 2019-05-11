@@ -5,7 +5,7 @@
 ## 安装
 
 ```sh
-npm install anywhere -g
+npm install a06-server -g
 ```
 
 ## 执行
