@@ -100,22 +100,7 @@ module.exports = {
   }
 }
 ```
-More about the [shorthand configuration](https://github.com/chimurai/http-proxy-middleware#shorthand).
-
-**Webpack conofig**
-```javascript
-// webpack.conofig.js
-module.exports = {
-  devServer: {
-    proxy: {
-      '/api': {
-        target: 'http://localhost:7000',
-        changeOrigin: true
-      }
-    }
-  }
-}
-```
 
 ## License
+
 The MIT license.
