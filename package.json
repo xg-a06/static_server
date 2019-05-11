@@ -1,6 +1,6 @@
 {
   "name": "a06-server",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Static resource server to help your test",
   "bin": {
     "a06-server": "./bin/www"
