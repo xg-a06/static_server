@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// 修复文件格式
 // const figlet = require('figlet')
 // const chalk = require('chalk')
 const App = require('../lib/app')
